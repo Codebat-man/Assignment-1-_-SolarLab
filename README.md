@@ -1,4 +1,4 @@
-# Assignment-1-_-SolarLab
+# Assignment-1_SolarLab
 Steps to  create an API using Django Rest Framework that scrapes information from Wikipedia's country pages and returns the data in JSON format : 
 To Create a  virtual environment for the project  I have used use the venv module that comes with python. After activatinf this environment
 Installed the required libraries for the project using pip - Django Rest Framework, and BeautifulSoup.
