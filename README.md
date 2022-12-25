@@ -12,4 +12,4 @@ Created a view class in the app's views.py file to handle the API request and sc
 
 Defined a URL pattern in the app's urls.py file to specify the endpoint for the API. The endpoint should include a URL parameter for the country name.
 
-And Test the API by making a request to the endpoint with a country name as the parameter.
+And Tested the API by making a request to the endpoint with a country name as the parameter.
